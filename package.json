@@ -13,7 +13,7 @@
     "express": "^4.16.3",
     "express-async-errors": "3.1.1",
     "follow-redirects": "1.13.0",
-    "geckodriver": "1.21.0",
+    "geckodriver": "1.21.1",
     "generatorics": "1.1.0",
     "html-to-text": "6.0.0",
     "lodash": "^4.17.20",
