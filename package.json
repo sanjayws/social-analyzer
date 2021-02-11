@@ -21,7 +21,7 @@
     "node-tesseract-ocr": "2.0.0",
     "prettier": "2.1.2",
     "pretty-error": "2.1.2",
-    "sanitize-html": "2.1.2",
+    "sanitize-html": "2.3.0",
     "selenium-webdriver": "4.0.0-alpha.7",
     "semver": "7.3.4",
     "tmp": "0.2.1",
