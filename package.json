@@ -19,7 +19,7 @@
     "lodash": "^4.17.20",
     "most-common-words-by-language": "2.17.8",
     "node-tesseract-ocr": "2.0.0",
-    "prettier": "2.1.2",
+    "prettier": "2.2.1",
     "pretty-error": "2.1.2",
     "sanitize-html": "2.1.2",
     "selenium-webdriver": "4.0.0-alpha.7",
