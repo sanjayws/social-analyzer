@@ -12,7 +12,7 @@
     "axios": "0.21.0",
     "express": "^4.16.3",
     "express-async-errors": "3.1.1",
-    "follow-redirects": "1.13.0",
+    "follow-redirects": "1.15.4",
     "geckodriver": "1.21.0",
     "generatorics": "1.1.0",
     "html-to-text": "6.0.0",
